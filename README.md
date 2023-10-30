@@ -1,4 +1,4 @@
-# Exercício
+# Exercício react pai e filho
 # Professor: RENAN KLINSMANN ARAÚJO MENDONÇA
-# Alunos: Guilherme José, Marcelo Medeiros, Marcos Pablo, Jorge de Melo, Maria Alice
-# 'npm start' 
+# Aluno: Guilherme José
+
